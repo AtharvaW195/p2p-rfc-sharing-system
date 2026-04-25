@@ -1,0 +1,4 @@
+RFC 2345: Routing Protocols
+
+This is sample RFC content for Peer B.
+Peer A can download this document during the GET demo.

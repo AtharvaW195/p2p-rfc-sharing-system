@@ -1,0 +1,4 @@
+RFC 123: TCP/IP Illustrated
+
+This is sample RFC content for Peer A.
+It is used to validate ADD, LIST, LOOKUP, and GET in the project demo.

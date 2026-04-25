@@ -1,0 +1,4 @@
+RFC 2345: Routing Protocols
+
+This is sample RFC content for Peer C.
+It intentionally mirrors Peer B for multi-location LOOKUP testing.

@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Runtime/download artifacts
+downloads/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
