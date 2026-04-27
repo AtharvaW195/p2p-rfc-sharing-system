@@ -139,7 +139,7 @@ def build_p2s_response(status_code: int, records: Optional[List[RfcLocation]] = 
 
     # End of message body marker.
     lines.append("")
-    return "\r\n".join(lines)
+    return "\r\n".join(lines) + "\r\n"
 
 
 def build_p2p_response(
